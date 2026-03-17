@@ -1,7 +1,3 @@
-C'est noté, Tariq. Voici ton fichier Markdown "nettoyé" de son contenu précédent, mais conservant ta structure visuelle, tes badges et tes ancres techniques pour que tu puisses attaquer les prochains TP immédiatement.
-
------
-
 # `💼`・CEJMA-TP[X]-TP[Y]
 
 [Thématique globale du devoir]
