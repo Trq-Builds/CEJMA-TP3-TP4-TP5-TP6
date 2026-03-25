@@ -136,8 +136,6 @@ Pour sécuriser le patrimoine informatique, le contrat doit inclure :
 
 -----
 
-\<a name="q4-4"\>\</a\>
-
 ### `🔸`・ Q4 ・ Outsourcing vs ASP :
 
   * **Outsourcing (Externalisation) :** Transfert global d'une fonction SI (ex: support utilisateur) à un tiers.
@@ -145,13 +143,11 @@ Pour sécuriser le patrimoine informatique, le contrat doit inclure :
 
 -----
 
-
 ### `🔸`・ Q5 ・ Qualification de l'externalisation :
 
 L'externalisation relève généralement d'un **contrat de prestation de service** complexe, mais peut inclure des mécanismes de **sous-traitance** si le prestataire délègue certaines briques techniques (ex: hébergement).
 
 -----
-
 
 ### `🔸`・ Q6 ・ Modes de rémunération :
 
