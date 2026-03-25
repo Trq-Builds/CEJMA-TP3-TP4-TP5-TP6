@@ -146,6 +146,8 @@ L'externalisation relève généralement d'un **contrat de prestation de service
 `🧠`・ **Contexte :** Métriques de disponibilité et critères d'engagement Gartner.  
 `🔵`・ **Statut global :** Conforme
 
+---
+
 ### `🔸`・ Calculs de Fiabilité :
 
 La modélisation de la disponibilité s'appuie sur deux métriques fondamentales mesurant la résilience du service :
