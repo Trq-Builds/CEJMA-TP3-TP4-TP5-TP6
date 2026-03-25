@@ -189,6 +189,7 @@ flowchart LR
 `🧠`・ **Contexte :** État de la menace et arsenal défensif en entreprise.  
 `🔵`・ **Statut global :** Conforme
 
+---
 
 ### `🔸`・ Chiffres Clés (CESIN 2025) :
 
@@ -196,8 +197,9 @@ flowchart LR
   * **Vecteur n°1 :** Le **Phishing** (55%) reste la porte d'entrée majeure.
   * **Impact :** La perturbation de la production est le premier préjudice cité (28%).
 
+---
 
-### `🔸`・ Arsenal de Défense S-Tier :
+### `🔸`・ Arsenal de Défense :
 
   * **EDR (Endpoint Detection & Response) :** Analyse comportementale sur les endpoints. Déployé à **95%** dans les organisations matures.
   * **MFA (Multi-Factor Auth) :** Double vérification (Connaissance + Possession).
