@@ -46,7 +46,6 @@ Les réponses s’appuient sur les ressources pédagogiques fournies, les textes
 
 -----
 
-
 ### `🔸`・ Q1 ・ Identification des actifs :
 
 Les actifs informationnels et informatiques d'une organisation se divisent en plusieurs catégories critiques :
@@ -58,7 +57,6 @@ Les actifs informationnels et informatiques d'une organisation se divisent en pl
 
 -----
 
-
 ### `🔸`・ Q2 ・ Objectifs de la gestion de patrimoine :
 
 La gestion structurée du patrimoine informatique vise trois paliers de performance :
@@ -68,7 +66,6 @@ La gestion structurée du patrimoine informatique vise trois paliers de performa
   * **P2 (Juridique) :** Garantir la conformité contractuelle vis-à-vis des éditeurs et constructeurs.
 
 -----
-
 
 ### `🔸`・ Q3 ・ Infogérance et avantages :
 
@@ -81,7 +78,6 @@ L'infogérance consiste à confier tout ou partie de la gestion du système d'in
 | **Financier** | Transformation des investissements (CAPEX) en charges d'exploitation prévisibles (OPEX). |
 
 -----
-
 
 ### `🔸`・ Q4 ・ Acteurs institutionnels :
 
@@ -98,7 +94,6 @@ L'infogérance consiste à confier tout ou partie de la gestion du système d'in
 
 -----
 
-
 ## `📙`・ TP4 ・ Les contrats informatiques
 
 `📂`・ **Source :** `TP4 – CEJMA`.`pdf`  
@@ -107,14 +102,11 @@ L'infogérance consiste à confier tout ou partie de la gestion du système d'in
 
 -----
 
-
 ### `🔸`・ Q1 ・ Le contrat de prestation :
 
 Un contrat de prestation de services informatiques est une convention par laquelle un professionnel (le prestataire) s'engage, contre rémunération, à réaliser un travail spécifique (conseil, développement, maintenance) pour un client, de manière indépendante.
 
 -----
-
-
 
 ### `🔸`・ Q2 ・ Mentions obligatoires et clauses :
 
@@ -126,8 +118,6 @@ Pour sécuriser le patrimoine informatique, le contrat doit inclure :
   * **Modalités de rupture :** Procédures de réversibilité ou de changement de prestataire.
 
 -----
-
-\<a name="q3-4"\>\</a\>
 
 ### `🔸`・ Q3 ・ Prestation vs Sous-traitance :
 
