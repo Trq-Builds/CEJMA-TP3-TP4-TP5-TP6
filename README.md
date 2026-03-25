@@ -76,6 +76,8 @@ L'infogérance consiste à confier tout ou partie de la gestion du système d'in
 | **Organisationnel** | Recentrage de l'organisation sur son cœur de métier et flexibilité accrue. |
 | **Financier** | Transformation des investissements (CAPEX) en charges d'exploitation prévisibles (OPEX). |
 
+-----
+
 <a id="q4-3"></a>
 ### `🔸`・ Q4 ・ Acteurs institutionnels :
 
