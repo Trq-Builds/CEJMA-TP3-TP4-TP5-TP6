@@ -13,8 +13,8 @@ Les réponses s’appuient sur les ressources pédagogiques fournies, les textes
 
   - `📂`・`TP3 – CEJMA`.`pdf`
   - `📂`・`TP4 – CEJMA`.`pdf`
-  - ・ [Régime des obligations contractuelles] ・[`🌐`](https://www.google.com/search?q=%5Bhttps://www.legifrance.gouv.fr/codes/id/LEGISCTA000032006680/%5D\(https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032006680/\))
-  - ・ [Organisation représentative de l'écosystème numérique] ・[`🌐`](https://www.google.com/search?q=%5Bhttps://numeum.fr/%5D\(https://numeum.fr/\))
+  - ・ ・[`🌐`](https://www.google.com/search?q=%5Bhttps://www.legifrance.gouv.fr/codes/id/LEGISCTA000032006680/%5D\(https://www.legifrance.gouv.fr/codes/id/LEGISCTA000032006680/\))
+  - ・ ・[`🌐`](https://www.google.com/search?q=%5Bhttps://numeum.fr/%5D\(https://numeum.fr/\))
 
 -----
 
