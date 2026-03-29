@@ -1,6 +1,14 @@
 # `💼`・CEJMA-TP3-TP4-TP5-TP6
 
 Gestion du patrimoine informatique, cadre contractuel des prestations numériques et cyber-résilience.
+---
+
+<p align="center">
+  <!-- Badge du dépôt et du langage -->
+  <img src="https://img.shields.io/badge/CEJMA-TP3_to_TP6-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Documentation-Structured-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Written%20in-Markdown-2B7489?logo=markdown&style=for-the-badge">
+</p>
 
 ---
 
