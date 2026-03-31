@@ -32,9 +32,9 @@ Les réponses s’appuient sur les ressources pédagogiques fournies, les textes
   * `📂`・`TP6 – CEJMA`.`pdf`
 
 * **Ressources externes :**
-  * Numeum ・ L'écosystème numérique français ・ https://numeum.fr/
-  * AWS Reliability ・ Cadre de disponibilité ・ https://docs.aws.amazon.com/fr_fr/wellarchitected/latest/reliability-pillar/availability.html
-  * CESIN ・ Baromètre de la cybersécurité 2025 ・ https://www.cesin.fr/
+  * Numeum ・ L'écosystème numérique français ・ [`🌐`](https://numeum.fr/)
+  * AWS Reliability ・ Cadre de disponibilité ・ [`🌐`](https://docs.aws.amazon.com/fr_fr/wellarchitected/latest/reliability-pillar/availability.html)
+  * CESIN ・ Baromètre de la cybersécurité 2025 ・ [`🌐`](https://www.cesin.fr/)
 
 ---
 
