@@ -55,8 +55,10 @@ Les réponses s’appuient sur les ressources pédagogiques fournies, les textes
 <a id="tp-3"></a>
 ## `📙`・TP3 ・ Les acteurs de l'industrie informatique
 
-`📂`・ **Source :** `TP3 – CEJMA`.`pdf`  
-`🧠`・ **Contexte :** Analyse de l'écosystème numérique et des modalités de gestion des actifs SI.  
+`📂`・ **Source :** `TP3 – CEJMA`.`pdf`
+
+`🧠`・ **Contexte :** Analyse de l'écosystème numérique et des modalités de gestion des actifs SI.
+
 `🔵`・**Statut global :** Conforme
 
 -----
@@ -106,8 +108,10 @@ L'infogérance consiste à confier tout ou partie de la gestion du système d'in
 
 ## `📙`・ TP4 ・ Les contrats informatiques
 
-`📂`・ **Source :** `TP4 – CEJMA`.`pdf`  
-`🧠`・ **Contexte :** Encadrement contractuel des relations entre clients et prestataires de services informatiques.  
+`📂`・ **Source :** `TP4 – CEJMA`.`pdf`
+
+`🧠`・ **Contexte :** Encadrement contractuel des relations entre clients et prestataires de services informatiques.
+
 `🔵`・ **Statut global :** Conforme
 
 <a id="q1-4"></a>
@@ -157,7 +161,9 @@ L'externalisation relève généralement d'un **contrat de prestation de service
 ## `📙`・ TP5 ・ Le contrat de niveau de service (SLA)
 
 `📂`・ **Source :** `TP5 – CEJMA`.`pdf` + **AWS Framework**
-`🧠`・ **Contexte :** Métriques de disponibilité et critères d'engagement Gartner.  
+
+`🧠`・ **Contexte :** Métriques de disponibilité et critères d'engagement Gartner.
+
 `🔵`・ **Statut global :** Conforme
 
 ---
@@ -204,7 +210,9 @@ flowchart LR
 ## `📙`・ TP6 ・ Les risques des cyberattaques
 
 `📂`・ **Source :** `TP6 – CEJMA`.`pdf` + **Baromètre CESIN 2025**
-`🧠`・ **Contexte :** État de la menace et arsenal défensif en entreprise.  
+
+`🧠`・ **Contexte :** État de la menace et arsenal défensif en entreprise.
+
 `🔵`・ **Statut global :** Conforme
 
 ---
