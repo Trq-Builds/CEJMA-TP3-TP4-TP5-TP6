@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-**Gestion du patrimoine informatique, cadre contractuel des prestations numériques et cyber-résilience.**
+Gestion du patrimoine informatique, cadre contractuel des prestations numériques et cyber-résilience.
 </p>
 
 
